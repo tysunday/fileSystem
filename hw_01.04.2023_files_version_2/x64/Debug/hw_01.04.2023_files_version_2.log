@@ -1,0 +1,4 @@
+﻿  Functions.cpp
+D:\academy top\программирование\classworkHomework\hw_01.04.2023_files_version_2\Functions.cpp(142,14): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+D:\academy top\программирование\classworkHomework\hw_01.04.2023_files_version_2\Functions.cpp(261,28): warning C4101: e: неиспользованная локальная переменная
+  hw_01.04.2023_files_version_2.vcxproj -> D:\academy top\программирование\classworkHomework\hw_01.04.2023_files_version_2\x64\Debug\hw_01.04.2023_files_version_2.exe
